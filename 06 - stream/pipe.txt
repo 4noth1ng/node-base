@@ -1,0 +1,1 @@
+hello fs你好，nodejs你好，nodejs你好，nodejs写入，但流不会结束写入并结束
